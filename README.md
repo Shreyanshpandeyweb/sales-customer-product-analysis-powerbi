@@ -260,6 +260,9 @@ If you wish to re-create the complete AdventureWorks datawarehouse-database (Adv
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sssingh/)
 [![website](https://img.shields.io/badge/web_site-8B5BE8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sunilssingh.me)
 
+## Contributors
+- **Shreyansh Pandey** ([ShreyanshPandeyWeb](https://github.com/ShreyanshPandeyWeb)) - Forked and customized for localized PowerBI analysis.
+
 ## Credits
 - AdventureWorks dataset sourced from [Microsoft AdventureWorks sample databases](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
 
